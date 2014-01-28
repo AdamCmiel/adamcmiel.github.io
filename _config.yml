@@ -1,30 +1,30 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
-disqus_shortname: 
+title:            Adam Cmiel
+description:      typing my way through a wonderful world.
+logo:             ac_logo_typewriter.png
+disqus_shortname: AC
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Adam Cmiel
+  avatar:         adam_bio.jpg
+  email:          adamcmiel@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        adamcmiel
+  facebook:       acmiel
+  github:         AdamCmiel
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://google.com/+AdamCmiel
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-47564509-1  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -36,10 +36,6 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
